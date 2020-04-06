@@ -1,0 +1,22 @@
+serif
+  |
+sans serif
+
+script
+
+blackletter
+
+all caps
+
+fancy
+
+papyrus
+
+short
+  |
+tall-long
+
+decorative
+   |
+Symbol
+
